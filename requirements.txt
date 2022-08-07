@@ -1,0 +1,2 @@
+pytube>=12.1.0
+pystyle>=0.7
